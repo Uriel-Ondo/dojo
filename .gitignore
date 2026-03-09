@@ -1,0 +1,4 @@
+jenkins/jenkins_home/*
+loki-data/*
+grafana-data/*
+prometheus-data/*

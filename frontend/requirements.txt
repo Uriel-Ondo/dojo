@@ -1,0 +1,5 @@
+Flask
+requests
+pytest
+python-json-logger
+prometheus-flask-exporter
